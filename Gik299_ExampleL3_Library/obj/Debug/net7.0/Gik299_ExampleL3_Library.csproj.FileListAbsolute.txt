@@ -1,0 +1,15 @@
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\bin\Debug\net7.0\Gik299_ExampleL3_Library.exe
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\bin\Debug\net7.0\Gik299_ExampleL3_Library.deps.json
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\bin\Debug\net7.0\Gik299_ExampleL3_Library.runtimeconfig.json
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\bin\Debug\net7.0\Gik299_ExampleL3_Library.dll
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\bin\Debug\net7.0\Gik299_ExampleL3_Library.pdb
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.csproj.AssemblyReference.cache
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.AssemblyInfoInputs.cache
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.AssemblyInfo.cs
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.csproj.CoreCompileInputs.cache
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.dll
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\refint\Gik299_ExampleL3_Library.dll
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.pdb
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\Gik299_ExampleL3_Library.genruntimeconfig.cache
+C:\Users\eem\source\repos\Gik299_ExampleL3_Library\Gik299_ExampleL3_Library\obj\Debug\net7.0\ref\Gik299_ExampleL3_Library.dll
